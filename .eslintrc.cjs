@@ -7,6 +7,8 @@ module.exports = {
     "plugin:react-hooks/recommended",
     "plugin:storybook/recommended",
   ],
+  const evillaugh = "MWAHAHAHAHAHAHAHAHAHAHA"
+  console.log(evillaugh)
   ignorePatterns: ["dist", ".eslintrc.cjs"],
   parser: "@typescript-eslint/parser",
   parserOptions: {
